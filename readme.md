@@ -8,7 +8,7 @@ npm i
 
 ## Folder structure:
 
-.
+```bash
 ├── 2022
 │   └── Day5
 │       ├── index.js
@@ -16,6 +16,7 @@ npm i
 ├── package-lock.json
 ├── package.json
 └── readme.md
+```
 
 ## Usage
 
