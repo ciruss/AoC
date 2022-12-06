@@ -1,0 +1,24 @@
+{
+  "name": "AoC",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./$npm_config_year/Day$npm_config_day/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ciruss/AoC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ciruss/AoC/issues"
+  },
+  "homepage": "https://github.com/ciruss/AoC#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
